@@ -1,3 +1,14 @@
+#Super basic instructions for non expert
+For the non tech savy who just want to run the page, use the following, else you can also
+run the standard 
+npm i
+npm start 
+from within the presentation folder
+
+
+You can modify the file index.html from withih the presentation folder > ui 
+Just do the very simple changes and run it as it is.
+
 # Setup
 
 Either Vagrant or Docker setup can be used.
