@@ -1,4 +1,4 @@
-#Super basic instructions for non expert
+# Super basic instructions for non expert
 For the non tech savy who just want to run the page, use the following, else you can also
 run the standard 
 npm i
@@ -37,7 +37,7 @@ Then you will be able to view the app at http://localhost:8080
 
 ```
 # build the docker container
- docker build -t ibm-nv-demo .
+ docker build -t nv-demo .
 
 # Run the app
  ./docker_serve.sh
