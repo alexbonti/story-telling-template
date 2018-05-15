@@ -1,0 +1,8 @@
+applications:
+- path: presentation
+  memory: 128M
+  instances: 1
+  domain: au-syd.mybluemix.net
+  name: hive-ai
+  host: hive-ai
+  disk_quota: 256M
